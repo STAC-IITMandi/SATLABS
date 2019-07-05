@@ -1,0 +1,1 @@
+It will contain all details related to structure and design of project, for example; balloon size, weight of all devices, 3-D Models, etc.

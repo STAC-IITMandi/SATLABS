@@ -1,0 +1,1 @@
+details of all electronic boards including circuitary and related configuration.

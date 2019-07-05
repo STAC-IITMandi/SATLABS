@@ -1,0 +1,1 @@
+It is responsible for all data-transfers and communications taking place between the satellite and us.
